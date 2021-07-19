@@ -1,0 +1,137 @@
+.container{
+    background-image: url("images/wallpaper-download-1.jpg");
+    background-color: aqua;
+    background-repeat: no-repeat, repeat;
+    width: 80%;
+    margin: 40px auto;
+}
+.right_side{
+    float: right;
+    width:50%;
+    margin: 10px;
+    background-color: gray;
+    opacity: 80%;
+    padding-left: 40px;
+}
+
+.left_side{
+    float: left;
+    width:50%;
+    margin: 10px
+}
+
+input{
+    width: 80%;
+    padding:20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+}
+
+.h_1{
+    color: white;
+    font-size: xx-large;
+}
+
+.h_{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+
+}
+
+#texxt{
+    color: white;
+    font-size: large;
+
+    
+}
+
+
+.text{
+    position: relative;
+    top: 200px;
+    margin-left: 20px;
+    color: white;
+}
+input:focus{
+            
+    font-size: larger;
+    outline:none;
+    color:rgb(0, 0, 0);
+    background: linear-gradient(rgb(241, 241, 241), rgb(124, 180, 143));
+}
+#signup{
+    align-self: center;
+    width: 86%;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    background: linear-gradient(rgb(241, 241, 241), rgb(179, 207, 15));
+
+}
+#signup:hover {
+    background: linear-gradient(rgb(241, 241, 241), rgb(124, 180, 143));
+
+}
+
+img{
+    width: 60px;
+    background-color: antiquewhite;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+ 
+.profile{
+    float:left;
+    width: 25%;
+    height: 280px;
+    
+    
+}
+
+.calender{
+    float: left;
+    width: 25%;
+    height: 280px;
+
+}
+
+.dollar{
+    float: left;
+    width: 25%;
+    height: 280px;
+    margin-left: 20px;;
+} 
+
+#pro{
+    background-repeat: no-repeat, repeat;
+    width: 80%;
+    margin: 40px auto;
+    margin-left: 20%;
+    height: 100px;
+}
+#lastcontainer{
+    background-color:rgb(215, 215, 230);
+    width: 100%;
+    margin-top: 200px;
+}
+
+#leftlast{
+    float:left;
+    width: 25%;
+    /* height: 280px; */
+    margin-left: 100px;
+
+}
+
+#rightlast{
+    float: right;
+    width: 25%;
+    /* height: 280px; */
+    margin-left: 10px;
+}
+
+
+
